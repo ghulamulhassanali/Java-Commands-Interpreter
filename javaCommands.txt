@@ -1,0 +1,11 @@
+Format: Don't remove this line. This file contains the java commands. Follow the format given in Documentation.txt
+  Let x = 0 * 4;Print X;    
+Let y = 0;y = x + 1 + 4;
+
+
+Print y; 
+
+
+
+
+
